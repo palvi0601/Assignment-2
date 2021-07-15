@@ -1,0 +1,50 @@
+body{
+margin : 0px;
+text-align: center;
+
+
+}
+
+.top{
+    background-color : #068B78;
+    height : 180px;
+    color: white ;
+    padding: 20px;
+    font-size: 1.5rem;
+   
+   
+}
+
+
+.subheading{
+    font-style: italic;
+
+}
+
+.middle{
+   background-color: #F2FF97;
+   height : 180px;
+   padding: 20px;
+   font-size: 3rem;
+   color: purple;
+  
+}
+
+.bottom{
+    background-color :#F73F52;
+    height : 180px;
+    padding: 20px;
+    
+    
+    
+}
+
+.button{
+    height: auto;
+    width: auto;
+    margin: 30px;
+    padding: 15px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+
+}
